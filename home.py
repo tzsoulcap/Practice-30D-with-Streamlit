@@ -39,3 +39,10 @@ c = alt.Chart(df2).mark_circle().encode(
      x='a', y='b', size='c', color='c', tooltip=['a', 'b', 'c'])
 st.write(c)
 
+# Day 6
+st.write('## Day 6')
+st.write('Uploading your Streamlit app to GitHub')
+
+# Day 7
+st.write('## Day 7')
+st.write('Deploying your Streamlit app with Streamlit Community Cloud')
